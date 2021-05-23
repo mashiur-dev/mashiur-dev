@@ -2,8 +2,7 @@ Working as a professional web application developer since 2013, I always prefer 
 
 Expertise in:
 - HTML5, CSS, Sass, JSON, PHP, MySQL, JS, JQuery, Bootstrap, others tech.
-- WordPress, Ghost.org
-- PSD to HTML / CMS
+- WordPress, Ghost.org CMS
 - API & Plugin Build & Management.
 
 Personal portfolio: https://mashiurz.com
