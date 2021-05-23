@@ -6,7 +6,7 @@ Expertise in:
 - Ghost.org CMS Theme Development
 - API & Plugin Build & Management.
 
-Personal portfolio: https://mashiurz.com
+Portfolio: https://mashiurz.com
 
 Providing quality and effective service is the first priority of mine, I am strongly determined in client satisfaction and brings the best solution in terms of both sides benefits.
 
